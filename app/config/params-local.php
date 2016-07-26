@@ -1,3 +1,3 @@
-<?php
-return [
-];
+<?php return array (
+  'installed' => true,
+); ?>

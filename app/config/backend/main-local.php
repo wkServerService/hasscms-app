@@ -3,7 +3,7 @@
 return [
     'components' => [
         'request' => [
-            'cookieValidationKey'=>'',
+            'cookieValidationKey'=>'esr6po9HI814pqHiL1-ESNFirIwcxnQn',
         ],
     ],
 ];
